@@ -2,9 +2,6 @@
 // конструктор, инициализирующий члены класса по умолчанию. Добавьте set- и get- методы для полей экземпляра класса.
 package Question_2;
 
-
-import com.sun.org.apache.xpath.internal.SourceTree;
-
 public class Task2 {
 
     private String name;
